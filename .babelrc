@@ -1,0 +1,18 @@
+{
+  "sourceMaps": true,
+  "retainLines": true,
+  "presets" : ["airbnb", "@babel/preset-react", "@babel/preset-env"],
+  "plugins": [
+    "lodash",
+    "@babel/plugin-syntax-dynamic-import",
+    "react-hot-loader/babel",
+    "@babel/plugin-proposal-class-properties"
+  ],
+  "env": {
+    "test": {
+      "plugins": [
+        "babel-plugin-dynamic-import-node"
+      ]
+    }
+  }
+}
