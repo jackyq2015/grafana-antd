@@ -12,7 +12,7 @@
     "bulma": "^0.8.0",
     "chart.js": "^2.9.3",
     "chartjs-plugin-zoom": "^0.7.5",
-    "json-bigint": "^0.3.0",
+    "json-bigint": "^1.0.0",
     "material-ui-search-bar": "^1.0.0-beta.14",
     "react": "^16.12.0",
     "react-chartjs-2": "^2.9.0",
